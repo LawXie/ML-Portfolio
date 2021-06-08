@@ -1,7 +1,7 @@
-# Intro
+## Intro
 - This portfolio showcase the graphs and models of my knowledge. 
 
-### Technologies
+## Technologies
  - Python
  - Jupyter Notebook
 
@@ -20,7 +20,7 @@
  - KNN Classifier - KNN-Classification-Iris.ipynb
  - Support Vector Machine Classifier - SVM-Classification-Social-Ads.ipynb
  
-### Project status 
+## Project status 
  - More models will be added to this directory over time.
 
 
