@@ -1,4 +1,5 @@
- - This portfolio showcase the graphs and models of my knowledge. 
+# Intro
+- This portfolio showcase the graphs and models of my knowledge. 
 
 ### Technologies
  - Python
