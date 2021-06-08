@@ -1,4 +1,4 @@
- - This portfolio displays many graphs and model calculations. 
+ - This portfolio showcase the graphs and models of my knowledge. 
 
 ### Technologies
  - Python
